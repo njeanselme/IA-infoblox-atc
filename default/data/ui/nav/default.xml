@@ -1,0 +1,3 @@
+<nav search_view="search" color="#404041">
+    <view name="App_Config" label="Application Configuration"/>
+</nav>
